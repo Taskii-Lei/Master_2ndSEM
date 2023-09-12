@@ -1,0 +1,4 @@
+imageio==2.22.0
+matplotlib==3.6.2
+numpy==1.23.3
+Pillow==9.4.0
